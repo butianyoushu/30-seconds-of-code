@@ -2,25 +2,24 @@
 
 # 30 seconds of code
 
-> Short JavaScript code snippets for all your development needs
+> Coding articles to level up your development skills
 
-* Visit [our website](https://30secondsofcode.org) to view our snippet collection.
-* Use the [Search page](https://30secondsofcode.org/search) to find snippets that suit your needs. You can search by name, tag, language or using a snippet's description. Just start typing a term and see what comes up.
-* Browse the [JavaScript Snippet List](https://30secondsofcode.org/js/p/1) to see all the snippets in this project or click individual tags at the top of the same page to narrow down your search to a specific tag.
-* Click on each snippet card to view the whole snippet, including code, explanation and examples.
-* You can use the button on the right side of a snippet card to copy the code to clipboard.
-* If you like the project, give it a star. It means a lot to the people maintaining it.
+* Visit [the website](https://30secondsofcode.org) to view all articles.
+* Search for articles and collections that suit your needs, using the name, tags, language or description.
+* Browse all [articles](https://30secondsofcode.org/snippets/p/1) or individual [collections](https://30secondsofcode.org/collections/p/1) for each topic.
+* Click on each card to view the whole article, including code snippets, explanation and examples.
+* If you like the project, give it a star. It means a lot.
 
 ## Want to contribute?
 
-* If you want to help us improve, take a minute to read the [Contribution Guidelines](/CONTRIBUTING.md) first.
-* Use the [Snippet Template](/snippet-template.md) to add new snippets to the collection.
-* If you find a problem with a specific snippet, please [open an issue](https://github.com/30-seconds/30-seconds-of-code/issues/new).
-* If you find a problem with the website, please [report it in the web repository](https://github.com/30-seconds/30-seconds-web/issues/new).
+* New content contributions are not accepted at this time.
+* You can, however, report problems with the website or suggest improvements by [opening an issue](https://github.com/Chalarangelo/30-seconds-of-code/issues/new).
+* You can also join the [community discussions](https://github.com/Chalarangelo/30-seconds-of-code/discussions).
 
-## Credits & Sponsors
+## Credits
 
-* This repository is maintained by the [30-seconds organization on GitHub](https://github.com/30-seconds).
-* All snippets are licensed under the CC0-1.0 License, unless explicitly stated otherwise.
-* Logos, names and trademarks are not to be used without the explicit consent of the maintainers or owners of the 30 seconds GitHub organization.
-* Our website is powered by [Netlify](https://www.netlify.com/), [Gatsby](https://www.gatsbyjs.org/), [Travis CI](https://travis-ci.com/) & [GitHub](https://github.com/).
+* This repository is maintained by [Angelos Chalaris]([https://github.com/30-seconds](https://github.com/Chalarangelo)).
+* All code snippets are licensed under the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/), unless explicitly stated otherwise.
+* Any other material (including text content, images, the website source code, logos, names and trademarks) are not to be used without the explicit consent of the owner.
+* The website is powered by [Netlify](https://www.netlify.com/), [Astro](https://astro.build/) & [GitHub](https://github.com/).
+* All of the photography is provided by [Unsplash](https://unsplash.com/collections/9387655/30-seconds-of-code-images).

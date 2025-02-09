@@ -1,0 +1,28 @@
+---
+const { snippet } = Astro.props;
+---
+<article>
+  <h1>{snippet.title}</h1>
+  <img
+    src={snippet.cover}
+    srcset={snippet.coverSrcset}
+    alt=''
+    height='180'
+    width='360'
+    fetchpriority='high'
+  />
+  <Fragment set:html={snippet.content}/>
+  <footer>
+    <p>Last updated: <time datetime={snippet.dateTime}>{snippet.date}</time>
+      {snippet.discussionUrl ? (
+          <span>
+            <a href={snippet.githubUrl} target='_blank' rel='noopener noreferrer'>View on GitHub</a> &middot;
+            <a href={snippet.discussionUrl} target='_blank' rel='noopener noreferrer'>Join the discussion</a>
+          </span>
+      ) : (
+        <a href={snippet.githubUrl} target='_blank' rel='noopener noreferrer'>View on GitHub</a>
+      )}
+    </p>
+    </footer>
+  </div>
+</article>
